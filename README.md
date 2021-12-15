@@ -12,9 +12,7 @@ I have done many works with JavaScript, Vue and React out there. Aside from my j
 
 - 🔭 I’m currently working on something cool <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="20" height="20"/>
 
-- 🌱 I’m currently learning Three js, GSAP and Typescript
-
-- 💬 Ask me about anything related to Javascript or Vue/React/Nuxt/
+- 💬 Ask me about anything related to Javascript or Vue//Nuxt/
 
 - 📫 How to reach me: <a href='https://t.me/R_27_12'  target="blank">@R_27_12</a> or <a  target="blank" href='https://www.linkedin.com/in/ruslan-ubaydullayev-a2974221a/'>@ubaydullayevR</a>
 
