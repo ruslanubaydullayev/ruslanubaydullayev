@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <b> Hi there I'm a Frontend Developer! </b>
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <h2><b> Hi there I'm a Frontend Developer! </b> </h2>
 
 <!-- <img src='https://i.ibb.co/mRh31x3/test.png'/> -->
 <!-- <img src='https://i.ibb.co/HFvQFvM/test.png' /> -->
