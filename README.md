@@ -4,7 +4,7 @@
 <!-- <img src='https://i.ibb.co/HFvQFvM/test.png' /> -->
 <!-- <img  src='https://i.ibb.co/ZXpLSzn/finalll.png' /> -->
 
-<p align="center">✨ Hi guys, I'm Jasur. I am a JavaScript developer from Tashkent, Uzbekistan. I'm currently working @ <a href='https://uic.group'  target="blank">uicgroup</a> as a Font-End engineer.
+<p align="center">✨ Hi guys, My name is Ruslan. I am a Frontend developer from Tashkent, Uzbekistan. I'm currently working @ <a href='https://uic.group'  target="blank">uicgroup</a> as a Font-End developer.
 I have done many works with JavaScript, Vue and React out there. Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer and support other open source projects. I take great care in the experience, architecture, and code quality of the things I build.
 </p>
 
@@ -16,7 +16,7 @@ I have done many works with JavaScript, Vue and React out there. Aside from my j
 
 - 💬 Ask me about anything related to Javascript or Vue/React/Nuxt/
 
-- 📫 How to reach me: <a href='https://t.me/norjs'  target="blank">@norjs</a> or <a  target="blank" href='https://www.linkedin.com/in/norbekov/'>@norbekov</a>
+- 📫 How to reach me: <a href='https://t.me/R_27_12'  target="blank">@R_27_12</a> or <a  target="blank" href='https://www.linkedin.com/in/ruslan-ubaydullayev-a2974221a/'>@ubaydullayevR</a>
 
 - 👀 Looking Forward to contribute more to open source projects.
 
