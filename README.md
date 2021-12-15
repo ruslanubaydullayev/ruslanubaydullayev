@@ -1,7 +1,4 @@
-### Hi there 👋 I'm a Frontend Developer!
-
-<h2 align="left"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Introduction</h1>
-
+### Hi there  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a Frontend Developer!
 
 <!-- <img src='https://i.ibb.co/mRh31x3/test.png'/> -->
 <!-- <img src='https://i.ibb.co/HFvQFvM/test.png' /> -->
