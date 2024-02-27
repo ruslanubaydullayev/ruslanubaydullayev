@@ -12,7 +12,7 @@ I have done many works with JavaScript, Vue. Aside from my job, I like to create
 
 - 💬 Ask me about anything related to Javascript or Vue/Nuxt/
 
-- 📫 How to reach me: <a href='https://t.me/R_27_12'  target="blank">@R_27_12</a> or <a  target="blank" href='https://www.linkedin.com/in/ruslan-ubaydullayev-a2974221a/'>@ubaydullayevR</a>
+- 📫 How to reach me: <a href='https://t.me/ruslanubaydullayev'  target="blank">@ruslanubaydullayev</a> or <a  target="blank" href='https://www.linkedin.com/in/ruslan-ubaydullayev-a2974221a/'>@ubaydullayevR</a>
 
 - 👀 Looking Forward to contribute more to open source projects.
 
